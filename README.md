@@ -12,3 +12,32 @@
   <img src="https://user-images.githubusercontent.com/50797070/124928436-8c35e780-e03a-11eb-88cd-0a123130f08d.PNG" width="500" height="300"/>
   <img src="https://user-images.githubusercontent.com/50797070/124928484-96f07c80-e03a-11eb-954f-73435c143c64.PNG" width="500" height="300"/>
 </div>
+
+## 프로젝트 개요
+- SSAFY 1학기 프로젝트
+- 2021.05.20부터 2021.05.28 까지 진행
+- 팀장 박경현
+- 팀원 조현철 
+
+## 기능
+- 회원 등록, 수정
+- 로그인, 로그아웃
+- OpenApi를 사용한 지도 기능
+- Qna 및 게시판 기능
+- 부동산 관련 뉴스
+- 청약 정보
+- 대출 정보
+
+## 개발 환경
+- Server
+  + SpringBoot Server
+
+- Database
++ MySQL
+
+- Client
+  + Vue.js
+  + Vue BootStrap 4
+
+## 관련 보고서
+- [Link](https://github.com/johyeoncheol/Hepppi_House/tree/master/document)
