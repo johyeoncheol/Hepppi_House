@@ -32,7 +32,7 @@
   + SpringBoot Server
 
 - Database
-+ MySQL
+  + MySQL
 
 - Client
   + Vue.js
